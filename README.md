@@ -1,5 +1,5 @@
 # PC98-Linux-Emulation
-This is a based on the instructions found in SmupsBR's video [https://www.youtube.com/watch?v=aOD_bGNtuFY&amp;t=331s] - I wanted to document this in case the video ever went down, and hopefully expand on it.  Please note that I am a bit of a n00b and quite new to emulating this, so please excuse me if I am not able to assist in deeper troubleshooting.
+This is a based on the instructions found in SmupsBR's video [https://www.youtube.com/watch?v=aOD_bGNtuFY&amp;t=331s](https://www.youtube.com/watch?v=aOD_bGNtuFY&amp;t=331s) - I wanted to document this in case the video ever went down, and hopefully expand on it.  Please note that I am a bit of a n00b and quite new to emulating this, so please excuse me if I am not able to assist in deeper troubleshooting.
 <br>
 <br>
 You will need these packages:
@@ -13,7 +13,7 @@ You will need these packages:
 I am running off of a Debian-based distro, and needed ```lib32z1``` in order for this to run.  This may or may not apply to you, depending on your distro, but I received a ``` ia32 panic``` error without it.
 <br>
 <br>
-1.Download the ```'PC-98 pack (v1.3).rar'``` file and extract at your preferred location [```unrar e 'PC-98 pack (v1.3).rar'```].  This comes with a lot of preloaded things.
+1.Download the ```'PC-98 pack (v1.3).rar'``` file from [https://drive.google.com/file/d/1jYGmTF04bUeVAj0eDAzL5Ktz3cmBYQXk/view](https://drive.google.com/file/d/1jYGmTF04bUeVAj0eDAzL5Ktz3cmBYQXk/view) and extract at your preferred location [```unrar e 'PC-98 pack (v1.3).rar'```].  This comes with a lot of preloaded things.
 <br>
 2.Navigate to ```/PC-98 pack (v1.3)/Neko Project 21W rev62``` and run ```wine np21x64w.exe``` [let it install whatever it says it needs]
 <br>
