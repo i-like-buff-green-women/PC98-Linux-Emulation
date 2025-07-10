@@ -8,10 +8,12 @@ You will need these packages:
 <br>
 ```winetricks```
 <br>
+```unrar``` [Or your preferred ```.rar``` extractor]
+<br>
 I am running off of a Debian-based distro, and needed ```lib32z1``` in order for this to run.  This may or may not apply to you, depending on your distro, but I received a ``` ia32 panic``` error without it.
 <br>
 <br>
-1.Download the ```.zip``` file and unzip at your preferred location.  This comes with a lot of preloaded things.
+1.Download the ```'PC-98 pack (v1.3).rar'``` file and extract at your preferred location [```unrar e 'PC-98 pack (v1.3).rar'```].  This comes with a lot of preloaded things.
 <br>
 2.Navigate to ```/PC-98 pack (v1.3)/Neko Project 21W rev62``` and run ```wine np21x64w.exe``` [let it install whatever it says it needs]
 <br>
