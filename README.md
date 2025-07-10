@@ -46,5 +46,7 @@ You can insert a config file for performance tweaks if you run into issues
 <br>
 2,Navigate to the ```Emulate``` tab and select ```Load VM config``` and open the ```VMCONFIG.npcfg``` file.
 <br>
+3.Make sure to reset the emulator for changes to take effect.
+<br>
 <br>
 At this time, I do not have further instructions or recommendations, but will add more as I learn.
