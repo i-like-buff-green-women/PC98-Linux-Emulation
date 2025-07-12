@@ -1,5 +1,5 @@
 # Keyboard Layout
-Modern QWERTY layouts do not apply to the PC-98 layout.  See image below to help you figure out which key you need to press to get which symbol.
+Modern QWERTY layouts do not apply to the PC-98 layout.  See image below to help you figure out which key you need to press to produce the desired symbol.
 <br>
 <br>
 You can learn more here: [https://github.com/zakernichny/ps2topc98](https://github.com/zakernichny/ps2topc98)
